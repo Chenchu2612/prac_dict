@@ -300,3 +300,5 @@ def emepty_not(d):
 emepty_not(eval(input("enter the dictionary")))
 
 "CHENCHU""SIVA"
+
+"hello" "hai"
