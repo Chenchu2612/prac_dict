@@ -299,4 +299,4 @@ def emepty_not(d):
         print("the dictionary is emepty") # not reverse the result
 emepty_not(eval(input("enter the dictionary")))
 
-
+"CHENCHU""SIVA"
